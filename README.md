@@ -143,3 +143,5 @@ python -m compileall .
 pytest
 python scanner.py --help
 ```
+
+test
